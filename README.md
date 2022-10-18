@@ -2,7 +2,7 @@
 
 > Status: Finalizado ✔️
 
-### É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II, do curso de Engenharia de Software
+### É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software
 
 ## Alguns campos no Modelo Main são:
 
