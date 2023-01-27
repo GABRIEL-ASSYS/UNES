@@ -1,4 +1,4 @@
-# UNES
+# UNES 🎓🏫
 
    O UNES é um projeto criado durante uma aula de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, trata-se de um site de uma universidade, com informações sobre a instituição e contato.
 
